@@ -1,0 +1,38 @@
+{
+  "name": "kater/username-extend",
+  "description": "Kater",
+  "keywords": [
+    "flarum"
+  ],
+  "type": "flarum-extension",
+  "license": "MIT",
+  "require": {
+    "flarum/core": "^1.4",
+    "fof/username-request": "*"
+  },
+  "authors": [
+    {
+      "name": "HHY",
+      "email": "1016823618@qq.com",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Kater\\UsernameExtend\\": "src/"
+    }
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "K Username",
+      "icon": {
+        "name": "",
+        "backgroundColor": "",
+        "color": ""
+      }
+    },
+    "flagrow": {
+      "discuss": ""
+    }
+  }
+}
