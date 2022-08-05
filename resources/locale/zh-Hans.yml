@@ -1,0 +1,22 @@
+fof-username-request:
+  forum:
+    nickname_modals:
+      request:
+        title: 更改昵称
+        submit_button: 提交申请
+    username_modals:
+      request:
+        title: 变更使用者名称
+        submit_button: 提交申请
+    settings:
+      nickname_request_button: 更改昵称
+      username_request_button: 更改使用者名称
+  ref:
+    nickname: 昵称
+
+flarum-nicknames:
+  forum:
+    sign_up:
+      nickname_placeholder: 昵称
+  ref:
+    nickname: 昵称
