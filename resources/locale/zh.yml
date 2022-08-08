@@ -11,6 +11,8 @@ fof-username-request:
     settings:
       nickname_request_button: 更改暱稱
       username_request_button: 更改使用者名稱
+    user:
+      name_history_link: 使用者名稱歷史
   ref:
     nickname: 暱稱
 
